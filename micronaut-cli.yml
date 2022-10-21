@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.tsfrm
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-parameter-store, aws-secrets-manager, cache-caffeine, github-workflow-ci, github-workflow-docker-registry, graalvm, gradle, graphql, http-client, jackson-databind, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-build, log4j2, micronaut-build, mysql, netty-server, openapi, readme, redis-lettuce, security, security-annotations, security-jwt, security-oauth2, security-session, shade, swagger-ui, test-resources, toml, toml-build, views-rocker]

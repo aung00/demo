@@ -1,0 +1,5 @@
+aws.client.system-manager.parameterstore.enabled = true
+
+[micronaut]
+application.name = 'demo'
+config-client.enabled = true
